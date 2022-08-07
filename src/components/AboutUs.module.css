@@ -1,0 +1,13 @@
+.title{
+    color: coral;
+
+}
+.contain{
+    margin: 2px;
+    padding: 20px 30px;
+    background-color: antiquewhite;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin:20px;
+}

@@ -24,6 +24,10 @@
     font-weight: bold;
    line-height: 80px;
 }
-.list li:hover {
+.list li a{
+    color:#fff;
+    text-decoration: none;
+}
+.list li a:hover {
     color: #4e3838;
 }
