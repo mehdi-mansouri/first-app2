@@ -22,7 +22,7 @@ class Products extends Component {
             <div className={Styled.container}>
 
                 {
-                    products.length?products.map(product=><Card key={product.id} image={product.image} name={product.title} cost={`${product.price} $`}/>):
+                    products.length?products.map(product=><Card id={product.id} key={product.id} image={product.image} name={product.title} cost={`${product.price} $`}/>):
                     <h1>Loding....</h1>
                 }
             </div>

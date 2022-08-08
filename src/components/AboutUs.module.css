@@ -6,6 +6,7 @@
     margin: 2px;
     padding: 20px 30px;
     background-color: antiquewhite;
+    min-height: 100vh;
 }
 h3{
     font-family: Georgia, 'Times New Roman', Times, serif;
